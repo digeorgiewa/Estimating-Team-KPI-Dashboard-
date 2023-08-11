@@ -1,4 +1,6 @@
-# Estimating Team KPI Power BIDashboard
+# Estimating Team KPI Power BI Dashboard
+
+![estimating ](https://github.com/digeorgiewa/Estimating-Team-KPI-Power-BI-Dashboard/assets/100164246/dfc4f07b-9a28-471f-b2c6-d09ed1ea41de)
 
 ### Itroduction
 Dynamic KPI Dashboard using Microsoft Power BI
