@@ -1,6 +1,6 @@
 # Estimating Team KPI Power BIDashboard
 
-###Itroduction
+### Itroduction
 Dynamic KPI Dashboard using Microsoft Power BI
 - Conceptualized, developed, and implemented an innovative TV dashboard using Power BI, providing real-time insights into KPIs.
 - Collaborated closely with department heads to identify critical KPIs and design a dashboard layout that offered dynamic views based on user roles and preferences.
